@@ -56,6 +56,8 @@ const users = [
 
 // console.log(tinderuser.hasOwnProperty('isLoggedIn'));
 
+//++++++++ object destructuring +++++++++
+
 const course = {
     courseName: "Js in hindi",
     price: "999",
