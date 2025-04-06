@@ -61,3 +61,12 @@ function returnSecondValue(gerArray) {
 }
 
 console.log(returnSecondValue(myNewArray));
+
+
+function toCelsius (fahrenheits) {
+    return `${fahrenheits} Fahrenheits is Equials to ${(5/9) * (fahrenheits - 32)}`
+}
+
+let a = 77
+
+console.log(toCelsius(77));

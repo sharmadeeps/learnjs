@@ -40,3 +40,6 @@ jsUser.greatingTwo = function() {
 
 console.log(jsUser.greating());
 console.log(jsUser.greatingTwo());
+
+
+
